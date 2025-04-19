@@ -1,0 +1,959 @@
+{
+  "hierarchy": [
+    {
+      "id": "java.net.MalformedURLException",
+      "name": "java.net.MalformedURLException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.atomic.AtomicReference",
+      "name": "java.util.concurrent.atomic.AtomicReference",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.CopyOnWriteArrayList",
+      "name": "java.util.concurrent.CopyOnWriteArrayList",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.nio.BufferUnderflowException",
+      "name": "java.nio.BufferUnderflowException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Map",
+      "name": "java.util.Map",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.KeyPair",
+      "name": "java.security.KeyPair",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.stream.StreamSupport",
+      "name": "java.util.stream.StreamSupport",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.stream.Collectors",
+      "name": "java.util.stream.Collectors",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.regex.Matcher",
+      "name": "java.util.regex.Matcher",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.Documented",
+      "name": "java.lang.annotation.Documented",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.ElementType.ANNOTATION_TYPE",
+      "name": "java.lang.annotation.ElementType.ANNOTATION_TYPE",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.io.BufferedReader",
+      "name": "java.io.BufferedReader",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.invoke.MethodHandles",
+      "name": "java.lang.invoke.MethodHandles",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.ThreadLocalRandom",
+      "name": "java.util.concurrent.ThreadLocalRandom",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.spec.PKCS8EncodedKeySpec",
+      "name": "java.security.spec.PKCS8EncodedKeySpec",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.LinkedList",
+      "name": "java.util.LinkedList",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.time.Instant",
+      "name": "java.time.Instant",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.atomic.AtomicLong",
+      "name": "java.util.concurrent.atomic.AtomicLong",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.ElementType.CONSTRUCTOR",
+      "name": "java.lang.annotation.ElementType.CONSTRUCTOR",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.math.BigDecimal",
+      "name": "java.math.BigDecimal",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Arrays",
+      "name": "java.util.Arrays",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.spec.InvalidKeySpecException",
+      "name": "java.security.spec.InvalidKeySpecException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.UUID",
+      "name": "java.util.UUID",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.Retention",
+      "name": "java.lang.annotation.Retention",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.KeyFactory",
+      "name": "java.security.KeyFactory",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.ExecutorService",
+      "name": "java.util.concurrent.ExecutorService",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.reflect.InvocationTargetException",
+      "name": "java.lang.reflect.InvocationTargetException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.KeyPairGenerator",
+      "name": "java.security.KeyPairGenerator",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.io.BufferedInputStream",
+      "name": "java.io.BufferedInputStream",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.io.FileReader",
+      "name": "java.io.FileReader",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.List",
+      "name": "java.util.List",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.ScheduledExecutorService",
+      "name": "java.util.concurrent.ScheduledExecutorService",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.BlockingQueue",
+      "name": "java.util.concurrent.BlockingQueue",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.nio.ByteBuffer",
+      "name": "java.nio.ByteBuffer",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.ElementType",
+      "name": "java.lang.annotation.ElementType",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.OptionalInt",
+      "name": "java.util.OptionalInt",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.reflect.ParameterizedType",
+      "name": "java.lang.reflect.ParameterizedType",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Comparator",
+      "name": "java.util.Comparator",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.Callable",
+      "name": "java.util.concurrent.Callable",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Optional",
+      "name": "java.util.Optional",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.time.ZonedDateTime",
+      "name": "java.time.ZonedDateTime",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.http.HttpResponse.BodyHandler",
+      "name": "java.net.http.HttpResponse.BodyHandler",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.stream.Stream",
+      "name": "java.util.stream.Stream",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Locale.LanguageRange",
+      "name": "java.util.Locale.LanguageRange",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.io.ByteArrayInputStream",
+      "name": "java.io.ByteArrayInputStream",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.KeyStore",
+      "name": "java.security.KeyStore",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.URL",
+      "name": "java.net.URL",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.Principal",
+      "name": "java.security.Principal",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.function.Function",
+      "name": "java.util.function.Function",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.nio.channels.ReadableByteChannel",
+      "name": "java.nio.channels.ReadableByteChannel",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.URLDecoder",
+      "name": "java.net.URLDecoder",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.ElementType.PARAMETER",
+      "name": "java.lang.annotation.ElementType.PARAMETER",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.HexFormat",
+      "name": "java.util.HexFormat",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.atomic.AtomicBoolean",
+      "name": "java.util.concurrent.atomic.AtomicBoolean",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.reflect.Type",
+      "name": "java.lang.reflect.Type",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Locale",
+      "name": "java.util.Locale",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.PublicKey",
+      "name": "java.security.PublicKey",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.KeyStoreException",
+      "name": "java.security.KeyStoreException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.ArrayList",
+      "name": "java.util.ArrayList",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.io.InputStream",
+      "name": "java.io.InputStream",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.regex.Pattern",
+      "name": "java.util.regex.Pattern",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.io.InputStreamReader",
+      "name": "java.io.InputStreamReader",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.time.format.DateTimeFormatter",
+      "name": "java.time.format.DateTimeFormatter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.URISyntaxException",
+      "name": "java.net.URISyntaxException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.atomic.AtomicInteger",
+      "name": "java.util.concurrent.atomic.AtomicInteger",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.io.PrintWriter",
+      "name": "java.io.PrintWriter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.InvalidKeyException",
+      "name": "java.security.InvalidKeyException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.management.GarbageCollectorMXBean",
+      "name": "java.lang.management.GarbageCollectorMXBean",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.http.HttpClient",
+      "name": "java.net.http.HttpClient",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.CompletableFuture",
+      "name": "java.util.concurrent.CompletableFuture",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.ScheduledFuture",
+      "name": "java.util.concurrent.ScheduledFuture",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.ServerSocket",
+      "name": "java.net.ServerSocket",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.PrivateKey",
+      "name": "java.security.PrivateKey",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.ConcurrentHashMap",
+      "name": "java.util.concurrent.ConcurrentHashMap",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Iterator",
+      "name": "java.util.Iterator",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.math.BigInteger",
+      "name": "java.math.BigInteger",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.TimeoutException",
+      "name": "java.util.concurrent.TimeoutException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.function.Supplier",
+      "name": "java.util.function.Supplier",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.io.OutputStream",
+      "name": "java.io.OutputStream",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.InetSocketAddress",
+      "name": "java.net.InetSocketAddress",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.function.Predicate",
+      "name": "java.util.function.Predicate",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.ResourceBundle",
+      "name": "java.util.ResourceBundle",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.io.IOException",
+      "name": "java.io.IOException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.ThreadPoolExecutor",
+      "name": "java.util.concurrent.ThreadPoolExecutor",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.Inet4Address",
+      "name": "java.net.Inet4Address",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.time.ZoneId",
+      "name": "java.time.ZoneId",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.ElementType.TYPE_USE",
+      "name": "java.lang.annotation.ElementType.TYPE_USE",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.ResourceBundle.Control",
+      "name": "java.util.ResourceBundle.Control",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.SecureRandom",
+      "name": "java.security.SecureRandom",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.TreeMap",
+      "name": "java.util.TreeMap",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.CompletionException",
+      "name": "java.util.concurrent.CompletionException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.io.File",
+      "name": "java.io.File",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.SocketAddress",
+      "name": "java.net.SocketAddress",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.http.HttpRequest",
+      "name": "java.net.http.HttpRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.cert.CertificateException",
+      "name": "java.security.cert.CertificateException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.RetentionPolicy.RUNTIME",
+      "name": "java.lang.annotation.RetentionPolicy.RUNTIME",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.URLEncoder",
+      "name": "java.net.URLEncoder",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.http.HttpResponse",
+      "name": "java.net.http.HttpResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.Annotation",
+      "name": "java.lang.annotation.Annotation",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.RetentionPolicy",
+      "name": "java.lang.annotation.RetentionPolicy",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.time.Duration",
+      "name": "java.time.Duration",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.LinkedBlockingDeque",
+      "name": "java.util.concurrent.LinkedBlockingDeque",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Collection",
+      "name": "java.util.Collection",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.Inet6Address",
+      "name": "java.net.Inet6Address",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.Future",
+      "name": "java.util.concurrent.Future",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.nio.file.Files",
+      "name": "java.nio.file.Files",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.EnumSet",
+      "name": "java.util.EnumSet",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Random",
+      "name": "java.util.Random",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.function.Consumer",
+      "name": "java.util.function.Consumer",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.locks.ReentrantLock",
+      "name": "java.util.concurrent.locks.ReentrantLock",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.management.ManagementFactory",
+      "name": "java.lang.management.ManagementFactory",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.CompletableFuture.failedFuture",
+      "name": "java.util.concurrent.CompletableFuture.failedFuture",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.LinkedBlockingQueue",
+      "name": "java.util.concurrent.LinkedBlockingQueue",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.ElementType.FIELD",
+      "name": "java.lang.annotation.ElementType.FIELD",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.nio.file.Path",
+      "name": "java.nio.file.Path",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.time.temporal.ChronoUnit",
+      "name": "java.time.temporal.ChronoUnit",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.time.LocalTime",
+      "name": "java.time.LocalTime",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.ExecutionException",
+      "name": "java.util.concurrent.ExecutionException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Objects",
+      "name": "java.util.Objects",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.nio.charset.StandardCharsets",
+      "name": "java.nio.charset.StandardCharsets",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.EnumMap",
+      "name": "java.util.EnumMap",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.ElementType.METHOD",
+      "name": "java.lang.annotation.ElementType.METHOD",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.UnknownHostException",
+      "name": "java.net.UnknownHostException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.Key",
+      "name": "java.security.Key",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.time.ZoneOffset",
+      "name": "java.time.ZoneOffset",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Objects.requireNonNull",
+      "name": "java.util.Objects.requireNonNull",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.io.ByteArrayOutputStream",
+      "name": "java.io.ByteArrayOutputStream",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.InetAddress",
+      "name": "java.net.InetAddress",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.stream.IntStream",
+      "name": "java.util.stream.IntStream",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.Executors",
+      "name": "java.util.concurrent.Executors",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.TimeUnit",
+      "name": "java.util.concurrent.TimeUnit",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.io.UncheckedIOException",
+      "name": "java.io.UncheckedIOException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.Signature",
+      "name": "java.security.Signature",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.MessageDigest",
+      "name": "java.security.MessageDigest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.SignatureException",
+      "name": "java.security.SignatureException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.HashSet",
+      "name": "java.util.HashSet",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.NoSuchAlgorithmException",
+      "name": "java.security.NoSuchAlgorithmException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Base64",
+      "name": "java.util.Base64",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.net.URI",
+      "name": "java.net.URI",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Optional.ofNullable",
+      "name": "java.util.Optional.ofNullable",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.function.BiFunction",
+      "name": "java.util.function.BiFunction",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Set",
+      "name": "java.util.Set",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.cert.CertificateFactory",
+      "name": "java.security.cert.CertificateFactory",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.TimeZone",
+      "name": "java.util.TimeZone",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.CompletableFuture.completedFuture",
+      "name": "java.util.concurrent.CompletableFuture.completedFuture",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.RejectedExecutionException",
+      "name": "java.util.concurrent.RejectedExecutionException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.ListResourceBundle",
+      "name": "java.util.ListResourceBundle",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.HashMap",
+      "name": "java.util.HashMap",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.CountDownLatch",
+      "name": "java.util.concurrent.CountDownLatch",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.CompletionStage",
+      "name": "java.util.concurrent.CompletionStage",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.math.RoundingMode",
+      "name": "java.math.RoundingMode",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.time.Clock",
+      "name": "java.time.Clock",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Queue",
+      "name": "java.util.Queue",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.security.cert.X509Certificate",
+      "name": "java.security.cert.X509Certificate",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.Collections",
+      "name": "java.util.Collections",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.LinkedHashMap",
+      "name": "java.util.LinkedHashMap",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.annotation.Target",
+      "name": "java.lang.annotation.Target",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.util.concurrent.Executor",
+      "name": "java.util.concurrent.Executor",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "java.lang.reflect.Method",
+      "name": "java.lang.reflect.Method",
+      "type": "package",
+      "children": []
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,17 @@
+{
+  "hierarchy": [
+    {
+      "id": "redis.embedded.exceptions.EmbeddedRedisException",
+      "name": "redis.embedded.exceptions.EmbeddedRedisException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "redis.embedded.RedisServer",
+      "name": "redis.embedded.RedisServer",
+      "type": "package",
+      "children": []
+    }
+  ],
+  "edges": []
+}

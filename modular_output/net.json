@@ -1,0 +1,41 @@
+{
+  "hierarchy": [
+    {
+      "id": "net.sourceforge.argparse4j.impl.Arguments",
+      "name": "net.sourceforge.argparse4j.impl.Arguments",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "net.logstash.logback.appender.LogstashTcpSocketAppender",
+      "name": "net.logstash.logback.appender.LogstashTcpSocketAppender",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "net.logstash.logback.marker.Markers",
+      "name": "net.logstash.logback.marker.Markers",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "net.sourceforge.argparse4j.inf.Subparser",
+      "name": "net.sourceforge.argparse4j.inf.Subparser",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "net.sourceforge.argparse4j.inf.Namespace",
+      "name": "net.sourceforge.argparse4j.inf.Namespace",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "net.logstash.logback.encoder.LogstashEncoder",
+      "name": "net.logstash.logback.encoder.LogstashEncoder",
+      "type": "package",
+      "children": []
+    }
+  ],
+  "edges": []
+}

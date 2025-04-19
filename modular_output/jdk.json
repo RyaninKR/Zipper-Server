@@ -1,0 +1,11 @@
+{
+  "hierarchy": [
+    {
+      "id": "jdk.jfr.consumer.RecordedEvent",
+      "name": "jdk.jfr.consumer.RecordedEvent",
+      "type": "package",
+      "children": []
+    }
+  ],
+  "edges": []
+}

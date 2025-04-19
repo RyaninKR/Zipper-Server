@@ -1,0 +1,19 @@
+{
+  "hierarchy": [
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/api-doc/src/main/java/org/signal/openapi/OpenApiExtension.java",
+      "name": "OpenApiExtension.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/api-doc/src/main/java/org/signal/openapi/OpenApiExtension.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/api-doc/src/main/java/org/signal/openapi/OpenApiReader.java",
+      "name": "OpenApiReader.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/api-doc/src/main/java/org/signal/openapi/OpenApiReader.java",
+      "children": []
+    }
+  ],
+  "edges": []
+}

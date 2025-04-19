@@ -1,0 +1,437 @@
+{
+  "hierarchy": [
+    {
+      "id": "jakarta.servlet.Filter",
+      "name": "jakarta.servlet.Filter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.ForbiddenException",
+      "name": "jakarta.ws.rs.ForbiddenException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.InternalServerErrorException",
+      "name": "jakarta.ws.rs.InternalServerErrorException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.servlet.ServletException",
+      "name": "jakarta.servlet.ServletException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.client.Invocation",
+      "name": "jakarta.ws.rs.client.Invocation",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.core.SecurityContext",
+      "name": "jakarta.ws.rs.core.SecurityContext",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.ConstraintValidator",
+      "name": "jakarta.validation.ConstraintValidator",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.DefaultValue",
+      "name": "jakarta.ws.rs.DefaultValue",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.Constraint",
+      "name": "jakarta.validation.Constraint",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.servlet.FilterChain",
+      "name": "jakarta.servlet.FilterChain",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.Produces",
+      "name": "jakarta.ws.rs.Produces",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.servlet.http.HttpServletRequest",
+      "name": "jakarta.servlet.http.HttpServletRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.constraints.Min",
+      "name": "jakarta.validation.constraints.Min",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.ProcessingException",
+      "name": "jakarta.ws.rs.ProcessingException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.core.Context",
+      "name": "jakarta.ws.rs.core.Context",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.Path",
+      "name": "jakarta.ws.rs.Path",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.inject.Provider",
+      "name": "jakarta.inject.Provider",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.client.Entity",
+      "name": "jakarta.ws.rs.client.Entity",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.NotAuthorizedException",
+      "name": "jakarta.ws.rs.NotAuthorizedException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.core.MultivaluedMap",
+      "name": "jakarta.ws.rs.core.MultivaluedMap",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.inject.Inject",
+      "name": "jakarta.inject.Inject",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.DELETE",
+      "name": "jakarta.ws.rs.DELETE",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.ServiceUnavailableException",
+      "name": "jakarta.ws.rs.ServiceUnavailableException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.Valid",
+      "name": "jakarta.validation.Valid",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.PathParam",
+      "name": "jakarta.ws.rs.PathParam",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.core.NoContentException",
+      "name": "jakarta.ws.rs.core.NoContentException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.constraints.Size",
+      "name": "jakarta.validation.constraints.Size",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.constraints.Pattern",
+      "name": "jakarta.validation.constraints.Pattern",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.core.MediaType",
+      "name": "jakarta.ws.rs.core.MediaType",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.servlet.ServletRegistration",
+      "name": "jakarta.servlet.ServletRegistration",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.ConstraintValidatorContext",
+      "name": "jakarta.validation.ConstraintValidatorContext",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.ext.MessageBodyReader",
+      "name": "jakarta.ws.rs.ext.MessageBodyReader",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.ext.ExceptionMapper",
+      "name": "jakarta.ws.rs.ext.ExceptionMapper",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.PUT",
+      "name": "jakarta.ws.rs.PUT",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.core.Response",
+      "name": "jakarta.ws.rs.core.Response",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.ClientErrorException",
+      "name": "jakarta.ws.rs.ClientErrorException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.WebApplicationException",
+      "name": "jakarta.ws.rs.WebApplicationException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.HeaderParam",
+      "name": "jakarta.ws.rs.HeaderParam",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.servlet.DispatcherType",
+      "name": "jakarta.servlet.DispatcherType",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.constraints.NotNull",
+      "name": "jakarta.validation.constraints.NotNull",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.constraints.Max",
+      "name": "jakarta.validation.constraints.Max",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.Payload",
+      "name": "jakarta.validation.Payload",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.container.ContainerResponseContext",
+      "name": "jakarta.ws.rs.container.ContainerResponseContext",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.servlet.ServletResponse",
+      "name": "jakarta.servlet.ServletResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.ConstraintViolation",
+      "name": "jakarta.validation.ConstraintViolation",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.constraints.DecimalMax",
+      "name": "jakarta.validation.constraints.DecimalMax",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.BadRequestException",
+      "name": "jakarta.ws.rs.BadRequestException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.constraints.DecimalMin",
+      "name": "jakarta.validation.constraints.DecimalMin",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.client.Client",
+      "name": "jakarta.ws.rs.client.Client",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.constraints.NotEmpty",
+      "name": "jakarta.validation.constraints.NotEmpty",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.constraints.AssertTrue",
+      "name": "jakarta.validation.constraints.AssertTrue",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.servlet.http.HttpServletResponse",
+      "name": "jakarta.servlet.http.HttpServletResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.core.HttpHeaders",
+      "name": "jakarta.ws.rs.core.HttpHeaders",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.ext.Provider",
+      "name": "jakarta.ws.rs.ext.Provider",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.Validator",
+      "name": "jakarta.validation.Validator",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.container.ContainerRequestContext",
+      "name": "jakarta.ws.rs.container.ContainerRequestContext",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.Validation",
+      "name": "jakarta.validation.Validation",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.Consumes",
+      "name": "jakarta.ws.rs.Consumes",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.annotation.Priority",
+      "name": "jakarta.annotation.Priority",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.client.WebTarget",
+      "name": "jakarta.ws.rs.client.WebTarget",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.validation.constraints.NotBlank",
+      "name": "jakarta.validation.constraints.NotBlank",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.NotFoundException",
+      "name": "jakarta.ws.rs.NotFoundException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.core.MultivaluedHashMap",
+      "name": "jakarta.ws.rs.core.MultivaluedHashMap",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.Priorities",
+      "name": "jakarta.ws.rs.Priorities",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.container.ResourceInfo",
+      "name": "jakarta.ws.rs.container.ResourceInfo",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.GET",
+      "name": "jakarta.ws.rs.GET",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.servlet.ServletRequest",
+      "name": "jakarta.servlet.ServletRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.core.Response.Status",
+      "name": "jakarta.ws.rs.core.Response.Status",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.inject.Singleton",
+      "name": "jakarta.inject.Singleton",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.POST",
+      "name": "jakarta.ws.rs.POST",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.container.ContainerRequestFilter",
+      "name": "jakarta.ws.rs.container.ContainerRequestFilter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "jakarta.ws.rs.QueryParam",
+      "name": "jakarta.ws.rs.QueryParam",
+      "type": "package",
+      "children": []
+    }
+  ],
+  "edges": []
+}

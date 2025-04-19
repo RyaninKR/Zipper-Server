@@ -1,0 +1,1013 @@
+{
+  "hierarchy": [
+    {
+      "id": "com.webauthn4j.data.extension.authenticator.AuthenticationExtensionsAuthenticatorOutputs",
+      "name": "com.webauthn4j.data.extension.authenticator.AuthenticationExtensionsAuthenticatorOutputs",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.appattest.authenticator.DCAppleDevice",
+      "name": "com.webauthn4j.appattest.authenticator.DCAppleDevice",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.clientoperation.CreatePayPalBillingAgreementMutation",
+      "name": "com.braintree.graphql.clientoperation.CreatePayPalBillingAgreementMutation",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.github.tomakehurst.wiremock.core.WireMockConfiguration.wireMockConfig",
+      "name": "com.github.tomakehurst.wiremock.core.WireMockConfiguration.wireMockConfig",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.codahale.metrics.health.HealthCheck",
+      "name": "com.codahale.metrics.health.HealthCheck",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.eatthepath.pushy.apns.PushType",
+      "name": "com.eatthepath.pushy.apns.PushType",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apple.itunes.storekit.client.APIError",
+      "name": "com.apple.itunes.storekit.client.APIError",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonFilter",
+      "name": "com.fasterxml.jackson.annotation.JsonFilter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.protobuf.ByteString",
+      "name": "com.google.protobuf.ByteString",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.appattest.authenticator.DCAppleDeviceImpl",
+      "name": "com.webauthn4j.appattest.authenticator.DCAppleDeviceImpl",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.appattest.server.DCServerProperty",
+      "name": "com.webauthn4j.appattest.server.DCServerProperty",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.firebase.messaging.FirebaseMessaging",
+      "name": "com.google.firebase.messaging.FirebaseMessaging",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apollographql.apollo3.api.json.BufferedSinkJsonWriter",
+      "name": "com.apollographql.apollo3.api.json.BufferedSinkJsonWriter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.clientoperation.CreatePayPalOneTimePaymentMutation",
+      "name": "com.braintree.graphql.clientoperation.CreatePayPalOneTimePaymentMutation",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.eatthepath.pushy.apns.ApnsPushNotification",
+      "name": "com.eatthepath.pushy.apns.ApnsPushNotification",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.cloud.pubsub.v1.PublisherInterface",
+      "name": "com.google.cloud.pubsub.v1.PublisherInterface",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.util.concurrent.ListenableFuture",
+      "name": "com.google.common.util.concurrent.ListenableFuture",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.TokenizePayPalBillingAgreementInput",
+      "name": "com.braintree.graphql.client.type.TokenizePayPalBillingAgreementInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.annotation.JsonSerialize",
+      "name": "com.fasterxml.jackson.databind.annotation.JsonSerialize",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.sun.management.OperatingSystemMXBean",
+      "name": "com.sun.management.OperatingSystemMXBean",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.amazonaws.services.dynamodbv2.AcquireLockOptions",
+      "name": "com.amazonaws.services.dynamodbv2.AcquireLockOptions",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apollographql.apollo3.api.Operations",
+      "name": "com.apollographql.apollo3.api.Operations",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.southernstorm.noise.protocol.Noise",
+      "name": "com.southernstorm.noise.protocol.Noise",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.protobuf.Empty",
+      "name": "com.google.protobuf.Empty",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.TokenizePayPalOneTimePaymentInput",
+      "name": "com.braintree.graphql.client.type.TokenizePayPalOneTimePaymentInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonView",
+      "name": "com.fasterxml.jackson.annotation.JsonView",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.github.tomakehurst.wiremock.client.WireMock.aResponse",
+      "name": "com.github.tomakehurst.wiremock.client.WireMock.aResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.data.attestation.AttestationObject",
+      "name": "com.webauthn4j.data.attestation.AttestationObject",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.github.tomakehurst.wiremock.junit5.WireMockExtension",
+      "name": "com.github.tomakehurst.wiremock.junit5.WireMockExtension",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.verifier.exception.VerificationException",
+      "name": "com.webauthn4j.verifier.exception.VerificationException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.DeserializationContext",
+      "name": "com.fasterxml.jackson.databind.DeserializationContext",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.amazonaws.services.dynamodbv2.ReleaseLockOptions",
+      "name": "com.amazonaws.services.dynamodbv2.ReleaseLockOptions",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonSubTypes",
+      "name": "com.fasterxml.jackson.annotation.JsonSubTypes",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.amazonaws.services.dynamodbv2.AmazonDynamoDBLockClient",
+      "name": "com.amazonaws.services.dynamodbv2.AmazonDynamoDBLockClient",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.i18n.phonenumbers.PhoneNumberToTimeZonesMapper",
+      "name": "com.google.i18n.phonenumbers.PhoneNumberToTimeZonesMapper",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.base.Strings",
+      "name": "com.google.common.base.Strings",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.PayPalBillingAgreementInput",
+      "name": "com.braintree.graphql.client.type.PayPalBillingAgreementInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.appattest.data.DCAttestationRequest",
+      "name": "com.webauthn4j.appattest.data.DCAttestationRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.node.ObjectNode",
+      "name": "com.fasterxml.jackson.databind.node.ObjectNode",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.clientoperation.ChargePayPalOneTimePaymentMutation",
+      "name": "com.braintree.graphql.clientoperation.ChargePayPalOneTimePaymentMutation",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.JsonMappingException",
+      "name": "com.fasterxml.jackson.databind.JsonMappingException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.data.attestation.authenticator.AttestedCredentialData",
+      "name": "com.webauthn4j.data.attestation.authenticator.AttestedCredentialData",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.auth.oauth2.GoogleCredentials",
+      "name": "com.google.auth.oauth2.GoogleCredentials",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.JsonDeserializer",
+      "name": "com.fasterxml.jackson.databind.JsonDeserializer",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.github.tomakehurst.wiremock.client.WireMock.getRequestedFor",
+      "name": "com.github.tomakehurst.wiremock.client.WireMock.getRequestedFor",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.CustomFieldInput",
+      "name": "com.braintree.graphql.client.type.CustomFieldInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.DeserializationFeature",
+      "name": "com.fasterxml.jackson.databind.DeserializationFeature",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.codahale.metrics.MetricRegistry.name",
+      "name": "com.codahale.metrics.MetricRegistry.name",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.eatthepath.pushy.apns.DeliveryPriority",
+      "name": "com.eatthepath.pushy.apns.DeliveryPriority",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.base.MoreObjects.firstNonNull",
+      "name": "com.google.common.base.MoreObjects.firstNonNull",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonSetter",
+      "name": "com.fasterxml.jackson.annotation.JsonSetter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.SerializerProvider",
+      "name": "com.fasterxml.jackson.databind.SerializerProvider",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.CreatePayPalBillingAgreementInput",
+      "name": "com.braintree.graphql.client.type.CreatePayPalBillingAgreementInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.auth.oauth2.ExternalAccountCredentials",
+      "name": "com.google.auth.oauth2.ExternalAccountCredentials",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.PayPalBillingAgreementChargePattern",
+      "name": "com.braintree.graphql.client.type.PayPalBillingAgreementChargePattern",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonFormat",
+      "name": "com.fasterxml.jackson.annotation.JsonFormat",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.util.StdConverter",
+      "name": "com.fasterxml.jackson.databind.util.StdConverter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.util.concurrent.Futures",
+      "name": "com.google.common.util.concurrent.Futures",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.PayPalOneTimePaymentInput",
+      "name": "com.braintree.graphql.client.type.PayPalOneTimePaymentInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.PayPalIntent",
+      "name": "com.braintree.graphql.client.type.PayPalIntent",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonFormat.Shape",
+      "name": "com.fasterxml.jackson.annotation.JsonFormat.Shape",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonProperty",
+      "name": "com.fasterxml.jackson.annotation.JsonProperty",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.firebase.messaging.FirebaseMessagingException",
+      "name": "com.google.firebase.messaging.FirebaseMessagingException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apple.itunes.storekit.model.StatusResponse",
+      "name": "com.apple.itunes.storekit.model.StatusResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.base.MoreObjects",
+      "name": "com.google.common.base.MoreObjects",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.core.JsonGenerator",
+      "name": "com.fasterxml.jackson.core.JsonGenerator",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apple.itunes.storekit.model.AutoRenewStatus",
+      "name": "com.apple.itunes.storekit.model.AutoRenewStatus",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.JsonNode",
+      "name": "com.fasterxml.jackson.databind.JsonNode",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apple.itunes.storekit.verification.VerificationException",
+      "name": "com.apple.itunes.storekit.verification.VerificationException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.southernstorm.noise.protocol.CipherStatePair",
+      "name": "com.southernstorm.noise.protocol.CipherStatePair",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.clientoperation.TokenizePayPalBillingAgreementMutation",
+      "name": "com.braintree.graphql.clientoperation.TokenizePayPalBillingAgreementMutation",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.i18n.phonenumbers.PhoneNumberUtil",
+      "name": "com.google.i18n.phonenumbers.PhoneNumberUtil",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.clientoperation.VaultPaymentMethodMutation",
+      "name": "com.braintree.graphql.clientoperation.VaultPaymentMethodMutation",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apple.itunes.storekit.model.JWSTransactionDecodedPayload",
+      "name": "com.apple.itunes.storekit.model.JWSTransactionDecodedPayload",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.api.core.ApiFuture",
+      "name": "com.google.api.core.ApiFuture",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintreegateway.Customer",
+      "name": "com.braintreegateway.Customer",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.PayPalBillingAgreementExperienceProfileInput",
+      "name": "com.braintree.graphql.client.type.PayPalBillingAgreementExperienceProfileInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.collect.ImmutableList",
+      "name": "com.google.common.collect.ImmutableList",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.appattest.DeviceCheckManager",
+      "name": "com.webauthn4j.appattest.DeviceCheckManager",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.protobuf.Message",
+      "name": "com.google.protobuf.Message",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.net.HttpHeaders",
+      "name": "com.google.common.net.HttpHeaders",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.json.JsonMapper",
+      "name": "com.fasterxml.jackson.databind.json.JsonMapper",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.eatthepath.pushy.apns.ApnsClient",
+      "name": "com.eatthepath.pushy.apns.ApnsClient",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.api.services.androidpublisher.model.Money",
+      "name": "com.google.api.services.androidpublisher.model.Money",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apple.itunes.storekit.model.LastTransactionsItem",
+      "name": "com.apple.itunes.storekit.model.LastTransactionsItem",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.io.Resources",
+      "name": "com.google.common.io.Resources",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.protobuf.Descriptors",
+      "name": "com.google.protobuf.Descriptors",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.stripe.exception.StripeException",
+      "name": "com.stripe.exception.StripeException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.PayPalLandingPageType",
+      "name": "com.braintree.graphql.client.type.PayPalLandingPageType",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.appattest.data.DCAttestationData",
+      "name": "com.webauthn4j.appattest.data.DCAttestationData",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonTypeName",
+      "name": "com.fasterxml.jackson.annotation.JsonTypeName",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.appattest.data.DCAttestationParameters",
+      "name": "com.webauthn4j.appattest.data.DCAttestationParameters",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.i18n.phonenumbers.Phonenumber",
+      "name": "com.google.i18n.phonenumbers.Phonenumber",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.appattest.data.DCAssertionRequest",
+      "name": "com.webauthn4j.appattest.data.DCAssertionRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.JsonSerializer",
+      "name": "com.fasterxml.jackson.databind.JsonSerializer",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.base.Suppliers",
+      "name": "com.google.common.base.Suppliers",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.clientoperation.TokenizePayPalOneTimePaymentMutation",
+      "name": "com.braintree.graphql.clientoperation.TokenizePayPalOneTimePaymentMutation",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.data.extension.authenticator.RegistrationExtensionAuthenticatorOutput",
+      "name": "com.webauthn4j.data.extension.authenticator.RegistrationExtensionAuthenticatorOutput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonCreator",
+      "name": "com.fasterxml.jackson.annotation.JsonCreator",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.appattest.data.DCAssertionParameters",
+      "name": "com.webauthn4j.appattest.data.DCAssertionParameters",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.amazonaws.services.dynamodbv2.LockItem",
+      "name": "com.amazonaws.services.dynamodbv2.LockItem",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apple.itunes.storekit.model.Status",
+      "name": "com.apple.itunes.storekit.model.Status",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.vdurmont.semver4j.Semver",
+      "name": "com.vdurmont.semver4j.Semver",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.codahale.metrics.SharedMetricRegistries",
+      "name": "com.codahale.metrics.SharedMetricRegistries",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.annotations.VisibleForTesting",
+      "name": "com.google.common.annotations.VisibleForTesting",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.eatthepath.pushy.apns.util.SimpleApnsPushNotification",
+      "name": "com.eatthepath.pushy.apns.util.SimpleApnsPushNotification",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apollographql.apollo3.api.ApolloResponse",
+      "name": "com.apollographql.apollo3.api.ApolloResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintreegateway.CustomerGateway",
+      "name": "com.braintreegateway.CustomerGateway",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.converter.AttestedCredentialDataConverter",
+      "name": "com.webauthn4j.converter.AttestedCredentialDataConverter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.core.JsonParser",
+      "name": "com.fasterxml.jackson.core.JsonParser",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.cloud.pubsub.v1.Publisher",
+      "name": "com.google.cloud.pubsub.v1.Publisher",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.codahale.metrics.MetricRegistry",
+      "name": "com.codahale.metrics.MetricRegistry",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonUnwrapped",
+      "name": "com.fasterxml.jackson.annotation.JsonUnwrapped",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.eatthepath.pushy.apns.PushNotificationResponse",
+      "name": "com.eatthepath.pushy.apns.PushNotificationResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.api.core.SettableApiFuture",
+      "name": "com.google.api.core.SettableApiFuture",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apollographql.apollo3.api.Operation",
+      "name": "com.apollographql.apollo3.api.Operation",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.ObjectMapper",
+      "name": "com.fasterxml.jackson.databind.ObjectMapper",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.collect.ImmutableMap",
+      "name": "com.google.common.collect.ImmutableMap",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.VaultPaymentMethodInput",
+      "name": "com.braintree.graphql.client.type.VaultPaymentMethodInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.protobuf.InvalidProtocolBufferException",
+      "name": "com.google.protobuf.InvalidProtocolBufferException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.api.core.ApiFutures",
+      "name": "com.google.api.core.ApiFutures",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.module.SimpleModule",
+      "name": "com.fasterxml.jackson.databind.module.SimpleModule",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apollographql.apollo3.api.Optional",
+      "name": "com.apollographql.apollo3.api.Optional",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.firebase.messaging.Message",
+      "name": "com.google.firebase.messaging.Message",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.PayPalExperienceProfileInput",
+      "name": "com.braintree.graphql.client.type.PayPalExperienceProfileInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.data.attestation.statement.AttestationStatement",
+      "name": "com.webauthn4j.data.attestation.statement.AttestationStatement",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.annotation.JsonDeserialize",
+      "name": "com.fasterxml.jackson.databind.annotation.JsonDeserialize",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonTypeInfo",
+      "name": "com.fasterxml.jackson.annotation.JsonTypeInfo",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonIgnoreProperties",
+      "name": "com.fasterxml.jackson.annotation.JsonIgnoreProperties",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.converter.util.ObjectConverter",
+      "name": "com.webauthn4j.converter.util.ObjectConverter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apple.itunes.storekit.client.AppStoreServerAPIClient",
+      "name": "com.apple.itunes.storekit.client.AppStoreServerAPIClient",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.util.concurrent.SettableFuture",
+      "name": "com.google.common.util.concurrent.SettableFuture",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.core.type.TypeReference",
+      "name": "com.fasterxml.jackson.core.type.TypeReference",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.firebase.messaging.MessagingErrorCode",
+      "name": "com.google.firebase.messaging.MessagingErrorCode",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apple.itunes.storekit.client.APIException",
+      "name": "com.apple.itunes.storekit.client.APIException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.node.JsonNodeFactory",
+      "name": "com.fasterxml.jackson.databind.node.JsonNodeFactory",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.net.InetAddresses",
+      "name": "com.google.common.net.InetAddresses",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apple.itunes.storekit.verification.SignedDataVerifier",
+      "name": "com.apple.itunes.storekit.verification.SignedDataVerifier",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.auth.oauth2.IdToken",
+      "name": "com.google.auth.oauth2.IdToken",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.eatthepath.pushy.apns.util.concurrent.PushNotificationFuture",
+      "name": "com.eatthepath.pushy.apns.util.concurrent.PushNotificationFuture",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.appattest.data.attestation.statement.AppleAppAttestAttestationStatement",
+      "name": "com.webauthn4j.appattest.data.attestation.statement.AppleAppAttestAttestationStatement",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.PayPalProductAttributesInput",
+      "name": "com.braintree.graphql.client.type.PayPalProductAttributesInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.i18n.phonenumbers.NumberParseException",
+      "name": "com.google.i18n.phonenumbers.NumberParseException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.ChargePaymentMethodInput",
+      "name": "com.braintree.graphql.client.type.ChargePaymentMethodInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.Nulls",
+      "name": "com.fasterxml.jackson.annotation.Nulls",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.github.tomakehurst.wiremock.client.WireMock.get",
+      "name": "com.github.tomakehurst.wiremock.client.WireMock.get",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apple.itunes.storekit.model.JWSRenewalInfoDecodedPayload",
+      "name": "com.apple.itunes.storekit.model.JWSRenewalInfoDecodedPayload",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.apple.itunes.storekit.model.SubscriptionGroupIdentifierItem",
+      "name": "com.apple.itunes.storekit.model.SubscriptionGroupIdentifierItem",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.TransactionInput",
+      "name": "com.braintree.graphql.client.type.TransactionInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintreegateway.BraintreeGateway",
+      "name": "com.braintreegateway.BraintreeGateway",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.verifier.exception.MaliciousCounterValueException",
+      "name": "com.webauthn4j.verifier.exception.MaliciousCounterValueException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.core.StreamReadFeature",
+      "name": "com.fasterxml.jackson.core.StreamReadFeature",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.auth.oauth2.ImpersonatedCredentials",
+      "name": "com.google.auth.oauth2.ImpersonatedCredentials",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.core.JacksonException",
+      "name": "com.fasterxml.jackson.core.JacksonException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.southernstorm.noise.protocol.HandshakeState",
+      "name": "com.southernstorm.noise.protocol.HandshakeState",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.core.JsonParseException",
+      "name": "com.fasterxml.jackson.core.JsonParseException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.webauthn4j.data.client.challenge.DefaultChallenge",
+      "name": "com.webauthn4j.data.client.challenge.DefaultChallenge",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.api.core.ApiFutureCallback",
+      "name": "com.google.api.core.ApiFutureCallback",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.github.tomakehurst.wiremock.client.WireMock.urlEqualTo",
+      "name": "com.github.tomakehurst.wiremock.client.WireMock.urlEqualTo",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.core.JsonProcessingException",
+      "name": "com.fasterxml.jackson.core.JsonProcessingException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.CreatePayPalOneTimePaymentInput",
+      "name": "com.braintree.graphql.client.type.CreatePayPalOneTimePaymentInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.util.concurrent.FutureCallback",
+      "name": "com.google.common.util.concurrent.FutureCallback",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.google.common.base.Throwables",
+      "name": "com.google.common.base.Throwables",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.PayPalUserAction",
+      "name": "com.braintree.graphql.client.type.PayPalUserAction",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.databind.node.TextNode",
+      "name": "com.fasterxml.jackson.databind.node.TextNode",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.amazonaws.services.dynamodbv2.AmazonDynamoDBLockClientOptions",
+      "name": "com.amazonaws.services.dynamodbv2.AmazonDynamoDBLockClientOptions",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.braintree.graphql.client.type.MonetaryAmountInput",
+      "name": "com.braintree.graphql.client.type.MonetaryAmountInput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "com.fasterxml.jackson.annotation.JsonIgnore",
+      "name": "com.fasterxml.jackson.annotation.JsonIgnore",
+      "type": "package",
+      "children": []
+    }
+  ],
+  "edges": []
+}

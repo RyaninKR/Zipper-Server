@@ -1,0 +1,75 @@
+{
+  "hierarchy": [
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/config/Config.java",
+      "name": "Config.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/config/Config.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/TestUser.java",
+      "name": "TestUser.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/TestUser.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/Operations.java",
+      "name": "Operations.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/Operations.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/Codecs.java",
+      "name": "Codecs.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/Codecs.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/IntegrationTools.java",
+      "name": "IntegrationTools.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/IntegrationTools.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/test/java/org/signal/integration/MessagingTest.java",
+      "name": "MessagingTest.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/test/java/org/signal/integration/MessagingTest.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/TestDevice.java",
+      "name": "TestDevice.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/TestDevice.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/config/DynamoDbTables.java",
+      "name": "DynamoDbTables.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/main/java/org/signal/integration/config/DynamoDbTables.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/test/java/org/signal/integration/AccountTest.java",
+      "name": "AccountTest.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/test/java/org/signal/integration/AccountTest.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/test/java/org/signal/integration/RegistrationTest.java",
+      "name": "RegistrationTest.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/integration-tests/src/test/java/org/signal/integration/RegistrationTest.java",
+      "children": []
+    }
+  ],
+  "edges": []
+}

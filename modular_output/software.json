@@ -1,0 +1,335 @@
+{
+  "hierarchy": [
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.KeyType",
+      "name": "software.amazon.awssdk.services.dynamodb.model.KeyType",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.TransactWriteItemsRequest",
+      "name": "software.amazon.awssdk.services.dynamodb.model.TransactWriteItemsRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.Delete",
+      "name": "software.amazon.awssdk.services.dynamodb.model.Delete",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.auth.credentials.DefaultCredentialsProvider",
+      "name": "software.amazon.awssdk.auth.credentials.DefaultCredentialsProvider",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.DeleteItemResponse",
+      "name": "software.amazon.awssdk.services.dynamodb.model.DeleteItemResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.UpdateItemRequest",
+      "name": "software.amazon.awssdk.services.dynamodb.model.UpdateItemRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.ScanResponse",
+      "name": "software.amazon.awssdk.services.dynamodb.model.ScanResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.ConditionalCheckFailedException",
+      "name": "software.amazon.awssdk.services.dynamodb.model.ConditionalCheckFailedException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.AttributeValue",
+      "name": "software.amazon.awssdk.services.dynamodb.model.AttributeValue",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.GlobalSecondaryIndex",
+      "name": "software.amazon.awssdk.services.dynamodb.model.GlobalSecondaryIndex",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.metrics.MetricCollection",
+      "name": "software.amazon.awssdk.metrics.MetricCollection",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.PutItemRequest",
+      "name": "software.amazon.awssdk.services.dynamodb.model.PutItemRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.ResourceNotFoundException",
+      "name": "software.amazon.awssdk.services.dynamodb.model.ResourceNotFoundException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.AttributeDefinition",
+      "name": "software.amazon.awssdk.services.dynamodb.model.AttributeDefinition",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.BatchWriteItemResponse",
+      "name": "software.amazon.awssdk.services.dynamodb.model.BatchWriteItemResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.WriteRequest",
+      "name": "software.amazon.awssdk.services.dynamodb.model.WriteRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.paginators.ScanIterable",
+      "name": "software.amazon.awssdk.services.dynamodb.paginators.ScanIterable",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.metrics.MetricPublisher",
+      "name": "software.amazon.awssdk.metrics.MetricPublisher",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.s3.model.GetObjectResponse",
+      "name": "software.amazon.awssdk.services.s3.model.GetObjectResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.core.SdkBytes",
+      "name": "software.amazon.awssdk.core.SdkBytes",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.KeySchemaElement",
+      "name": "software.amazon.awssdk.services.dynamodb.model.KeySchemaElement",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.ItemCollectionSizeLimitExceededException",
+      "name": "software.amazon.awssdk.services.dynamodb.model.ItemCollectionSizeLimitExceededException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.GetItemResponse",
+      "name": "software.amazon.awssdk.services.dynamodb.model.GetItemResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.DynamoDbClient",
+      "name": "software.amazon.awssdk.services.dynamodb.DynamoDbClient",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.core.ResponseInputStream",
+      "name": "software.amazon.awssdk.core.ResponseInputStream",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.s3.model.HeadObjectResponse",
+      "name": "software.amazon.awssdk.services.s3.model.HeadObjectResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.GetItemRequest",
+      "name": "software.amazon.awssdk.services.dynamodb.model.GetItemRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.auth.credentials.AwsCredentialsProvider",
+      "name": "software.amazon.awssdk.auth.credentials.AwsCredentialsProvider",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.ProvisionedThroughput",
+      "name": "software.amazon.awssdk.services.dynamodb.model.ProvisionedThroughput",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.PutRequest",
+      "name": "software.amazon.awssdk.services.dynamodb.model.PutRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.DynamoDbAsyncClient",
+      "name": "software.amazon.awssdk.services.dynamodb.DynamoDbAsyncClient",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.ProjectionType",
+      "name": "software.amazon.awssdk.services.dynamodb.model.ProjectionType",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.ScanRequest",
+      "name": "software.amazon.awssdk.services.dynamodb.model.ScanRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.s3.S3Client",
+      "name": "software.amazon.awssdk.services.s3.S3Client",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.s3.S3AsyncClient",
+      "name": "software.amazon.awssdk.services.s3.S3AsyncClient",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.DeleteItemRequest",
+      "name": "software.amazon.awssdk.services.dynamodb.model.DeleteItemRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.s3.model.DeleteObjectRequest",
+      "name": "software.amazon.awssdk.services.s3.model.DeleteObjectRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.Projection",
+      "name": "software.amazon.awssdk.services.dynamodb.model.Projection",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.Put",
+      "name": "software.amazon.awssdk.services.dynamodb.model.Put",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.s3.model.HeadObjectRequest",
+      "name": "software.amazon.awssdk.services.s3.model.HeadObjectRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.metrics.MetricRecord",
+      "name": "software.amazon.awssdk.metrics.MetricRecord",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.BatchWriteItemRequest",
+      "name": "software.amazon.awssdk.services.dynamodb.model.BatchWriteItemRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.QueryResponse",
+      "name": "software.amazon.awssdk.services.dynamodb.model.QueryResponse",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.s3.model.GetObjectRequest",
+      "name": "software.amazon.awssdk.services.s3.model.GetObjectRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.TransactionCanceledException",
+      "name": "software.amazon.awssdk.services.dynamodb.model.TransactionCanceledException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.regions.Region",
+      "name": "software.amazon.awssdk.regions.Region",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.crt.CRT",
+      "name": "software.amazon.awssdk.crt.CRT",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.TransactWriteItem",
+      "name": "software.amazon.awssdk.services.dynamodb.model.TransactWriteItem",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.Select",
+      "name": "software.amazon.awssdk.services.dynamodb.model.Select",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.LocalSecondaryIndex",
+      "name": "software.amazon.awssdk.services.dynamodb.model.LocalSecondaryIndex",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.CancellationReason",
+      "name": "software.amazon.awssdk.services.dynamodb.model.CancellationReason",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.ScalarAttributeType",
+      "name": "software.amazon.awssdk.services.dynamodb.model.ScalarAttributeType",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.QueryRequest",
+      "name": "software.amazon.awssdk.services.dynamodb.model.QueryRequest",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.services.dynamodb.model.ReturnValue",
+      "name": "software.amazon.awssdk.services.dynamodb.model.ReturnValue",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "software.amazon.awssdk.http.AbortableInputStream",
+      "name": "software.amazon.awssdk.http.AbortableInputStream",
+      "type": "package",
+      "children": []
+    }
+  ],
+  "edges": []
+}

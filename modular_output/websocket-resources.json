@@ -1,0 +1,355 @@
+{
+  "hierarchy": [
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/AuthenticationException.java",
+      "name": "AuthenticationException.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/AuthenticationException.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/session/WebSocketSession.java",
+      "name": "WebSocketSession.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/session/WebSocketSession.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/ReadOnly.java",
+      "name": "ReadOnly.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/ReadOnly.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/ReusableAuth.java",
+      "name": "ReusableAuth.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/ReusableAuth.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/WebSocketRequestMessage.java",
+      "name": "WebSocketRequestMessage.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/WebSocketRequestMessage.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/WebSocketResponseMessage.java",
+      "name": "WebSocketResponseMessage.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/WebSocketResponseMessage.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/test/java/org/whispersystems/websocket/logging/WebSocketRequestLogTest.java",
+      "name": "WebSocketRequestLogTest.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/test/java/org/whispersystems/websocket/logging/WebSocketRequestLogTest.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/target/generated-sources/protobuf/java/org/whispersystems/websocket/messages/protobuf/SubProtocol.java",
+      "name": "SubProtocol.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/target/generated-sources/protobuf/java/org/whispersystems/websocket/messages/protobuf/SubProtocol.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/WebsocketEventLayoutFactory.java",
+      "name": "WebsocketEventLayoutFactory.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/WebsocketEventLayoutFactory.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/WebsocketRequestLoggerFactory.java",
+      "name": "WebsocketRequestLoggerFactory.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/WebsocketRequestLoggerFactory.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/RequestHeaderConverter.java",
+      "name": "RequestHeaderConverter.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/RequestHeaderConverter.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/WebsocketRequestLog.java",
+      "name": "WebsocketRequestLog.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/WebsocketRequestLog.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/protobuf/ProtobufWebSocketResponseMessage.java",
+      "name": "ProtobufWebSocketResponseMessage.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/protobuf/ProtobufWebSocketResponseMessage.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/test/java/org/whispersystems/websocket/WebSocketResourceProviderTest.java",
+      "name": "WebSocketResourceProviderTest.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/test/java/org/whispersystems/websocket/WebSocketResourceProviderTest.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/Mutable.java",
+      "name": "Mutable.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/Mutable.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/AsyncWebsocketEventAppenderFactory.java",
+      "name": "AsyncWebsocketEventAppenderFactory.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/AsyncWebsocketEventAppenderFactory.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/WebSocketEventConverter.java",
+      "name": "WebSocketEventConverter.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/WebSocketEventConverter.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/WebSocketResourceProvider.java",
+      "name": "WebSocketResourceProvider.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/WebSocketResourceProvider.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/session/WebSocketSessionContext.java",
+      "name": "WebSocketSessionContext.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/session/WebSocketSessionContext.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/setup/WebSocketEnvironment.java",
+      "name": "WebSocketEnvironment.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/setup/WebSocketEnvironment.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/RemoteHostConverter.java",
+      "name": "RemoteHostConverter.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/RemoteHostConverter.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/configuration/WebSocketConfiguration.java",
+      "name": "WebSocketConfiguration.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/configuration/WebSocketConfiguration.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/WebsocketHeaders.java",
+      "name": "WebsocketHeaders.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/WebsocketHeaders.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/WebSocketSecurityContext.java",
+      "name": "WebSocketSecurityContext.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/WebSocketSecurityContext.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/protobuf/ProtobufWebSocketMessage.java",
+      "name": "ProtobufWebSocketMessage.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/protobuf/ProtobufWebSocketMessage.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/EnsureLineSeparation.java",
+      "name": "EnsureLineSeparation.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/EnsureLineSeparation.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/WebSocketMessageFactory.java",
+      "name": "WebSocketMessageFactory.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/WebSocketMessageFactory.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/session/WebSocketSessionContextValueFactoryProvider.java",
+      "name": "WebSocketSessionContextValueFactoryProvider.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/session/WebSocketSessionContextValueFactoryProvider.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/WebsocketAuthValueFactoryProvider.java",
+      "name": "WebsocketAuthValueFactoryProvider.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/WebsocketAuthValueFactoryProvider.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/ContentLengthConverter.java",
+      "name": "ContentLengthConverter.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/ContentLengthConverter.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/WebSocketResourceProviderFactory.java",
+      "name": "WebSocketResourceProviderFactory.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/WebSocketResourceProviderFactory.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/session/WebSocketSessionContainerRequestValueFactory.java",
+      "name": "WebSocketSessionContainerRequestValueFactory.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/session/WebSocketSessionContainerRequestValueFactory.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/PrincipalSupplier.java",
+      "name": "PrincipalSupplier.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/PrincipalSupplier.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/InvalidMessageException.java",
+      "name": "InvalidMessageException.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/InvalidMessageException.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/WebSocketClient.java",
+      "name": "WebSocketClient.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/WebSocketClient.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/test/java/org/whispersystems/websocket/WebSocketResourceProviderFactoryTest.java",
+      "name": "WebSocketResourceProviderFactoryTest.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/test/java/org/whispersystems/websocket/WebSocketResourceProviderFactoryTest.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/protobuf/ProtobufWebSocketRequestMessage.java",
+      "name": "ProtobufWebSocketRequestMessage.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/protobuf/ProtobufWebSocketRequestMessage.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/WebSocketAuthenticator.java",
+      "name": "WebSocketAuthenticator.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/WebSocketAuthenticator.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/RequestUrlConverter.java",
+      "name": "RequestUrlConverter.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/RequestUrlConverter.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/DateConverter.java",
+      "name": "DateConverter.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/DateConverter.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/NAConverter.java",
+      "name": "NAConverter.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/NAConverter.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/WebsocketEventLayout.java",
+      "name": "WebsocketEventLayout.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/WebsocketEventLayout.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/protobuf/ProtobufWebSocketMessageFactory.java",
+      "name": "ProtobufWebSocketMessageFactory.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/protobuf/ProtobufWebSocketMessageFactory.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/WebSocketMessage.java",
+      "name": "WebSocketMessage.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/messages/WebSocketMessage.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/setup/WebSocketConnectListener.java",
+      "name": "WebSocketConnectListener.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/setup/WebSocketConnectListener.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/LineSeparatorConverter.java",
+      "name": "LineSeparatorConverter.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/LineSeparatorConverter.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/AuthenticatedWebSocketUpgradeFilter.java",
+      "name": "AuthenticatedWebSocketUpgradeFilter.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/auth/AuthenticatedWebSocketUpgradeFilter.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/session/ContextPrincipal.java",
+      "name": "ContextPrincipal.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/session/ContextPrincipal.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/WebsocketEvent.java",
+      "name": "WebsocketEvent.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/WebsocketEvent.java",
+      "children": []
+    },
+    {
+      "id": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/StatusCodeConverter.java",
+      "name": "StatusCodeConverter.java",
+      "type": "file",
+      "path": "/Users/VRAR/Documents/GitHub/Zipper-Server/websocket-resources/src/main/java/org/whispersystems/websocket/logging/layout/converters/StatusCodeConverter.java",
+      "children": []
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,59 @@
+{
+  "hierarchy": [
+    {
+      "id": "javax.crypto.Mac",
+      "name": "javax.crypto.Mac",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "javax.swing.text.html.Option",
+      "name": "javax.swing.text.html.Option",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "javax.security.auth.Subject",
+      "name": "javax.security.auth.Subject",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "javax.crypto.BadPaddingException",
+      "name": "javax.crypto.BadPaddingException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "javax.net.ssl.SSLException",
+      "name": "javax.net.ssl.SSLException",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "javax.annotation.Nullable",
+      "name": "javax.annotation.Nullable",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "javax.crypto.spec.SecretKeySpec",
+      "name": "javax.crypto.spec.SecretKeySpec",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "javax.annotation.Nonnull",
+      "name": "javax.annotation.Nonnull",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "javax.crypto.ShortBufferException",
+      "name": "javax.crypto.ShortBufferException",
+      "type": "package",
+      "children": []
+    }
+  ],
+  "edges": []
+}

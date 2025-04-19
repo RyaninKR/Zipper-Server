@@ -1,0 +1,173 @@
+{
+  "hierarchy": [
+    {
+      "id": "ch.qos.logback.access.common.spi.IAccessEvent",
+      "name": "ch.qos.logback.access.common.spi.IAccessEvent",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.classic.Logger",
+      "name": "ch.qos.logback.classic.Logger",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.spi.FilterReply",
+      "name": "ch.qos.logback.core.spi.FilterReply",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.spi.DeferredProcessingAware",
+      "name": "ch.qos.logback.core.spi.DeferredProcessingAware",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.helpers.NOPAppender",
+      "name": "ch.qos.logback.core.helpers.NOPAppender",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.Context",
+      "name": "ch.qos.logback.core.Context",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.util.OptionHelper",
+      "name": "ch.qos.logback.core.util.OptionHelper",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.status.Status",
+      "name": "ch.qos.logback.core.status.Status",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.util.CachingDateFormatter",
+      "name": "ch.qos.logback.core.util.CachingDateFormatter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.CoreConstants",
+      "name": "ch.qos.logback.core.CoreConstants",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.pattern.DynamicConverter",
+      "name": "ch.qos.logback.core.pattern.DynamicConverter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.spi.ContextAware",
+      "name": "ch.qos.logback.core.spi.ContextAware",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.OutputStreamAppender",
+      "name": "ch.qos.logback.core.OutputStreamAppender",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.classic.LoggerContext",
+      "name": "ch.qos.logback.classic.LoggerContext",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.pattern.PostCompileProcessor",
+      "name": "ch.qos.logback.core.pattern.PostCompileProcessor",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.spi.FilterAttachableImpl",
+      "name": "ch.qos.logback.core.spi.FilterAttachableImpl",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.spi.AppenderAttachableImpl",
+      "name": "ch.qos.logback.core.spi.AppenderAttachableImpl",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.pattern.PatternLayoutBase",
+      "name": "ch.qos.logback.core.pattern.PatternLayoutBase",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.filter.Filter",
+      "name": "ch.qos.logback.core.filter.Filter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.classic.spi.ILoggingEvent",
+      "name": "ch.qos.logback.classic.spi.ILoggingEvent",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.pattern.ConverterUtil",
+      "name": "ch.qos.logback.core.pattern.ConverterUtil",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.net.ssl.SSLConfiguration",
+      "name": "ch.qos.logback.core.net.ssl.SSLConfiguration",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.classic.PatternLayout",
+      "name": "ch.qos.logback.classic.PatternLayout",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.encoder.LayoutWrappingEncoder",
+      "name": "ch.qos.logback.core.encoder.LayoutWrappingEncoder",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.spi.ContextAwareBase",
+      "name": "ch.qos.logback.core.spi.ContextAwareBase",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.pattern.Converter",
+      "name": "ch.qos.logback.core.pattern.Converter",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.AsyncAppenderBase",
+      "name": "ch.qos.logback.core.AsyncAppenderBase",
+      "type": "package",
+      "children": []
+    },
+    {
+      "id": "ch.qos.logback.core.Appender",
+      "name": "ch.qos.logback.core.Appender",
+      "type": "package",
+      "children": []
+    }
+  ],
+  "edges": []
+}

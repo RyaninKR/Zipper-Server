@@ -30,3 +30,6 @@ deployer.log
 .classpath
 .settings
 .DS_Store
+venv
+__pycache__
+.vscode
